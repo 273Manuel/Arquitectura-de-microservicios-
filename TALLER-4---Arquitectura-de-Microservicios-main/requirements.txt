@@ -1,3 +1,0 @@
--r services/productos/requirements.txt
--r services/clientes/requirements.txt
--r services/pedidos/requirements.txt
